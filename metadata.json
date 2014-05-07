@@ -1,0 +1,6 @@
+{
+	"shell-version": ["3.12.1"], 
+	"uuid": "batteryfull-warning-extension@kalpakrg@gmail.com", 
+	"name": "Battery Full Warning", 
+	"description": "This extension notifies you when your battery is fully charged. You can unplug the power source to ensure longer battery life."
+}
