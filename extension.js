@@ -81,7 +81,7 @@ const BatteryLifeExt = new Lang.Class({
 		let notification = new MessageTray.Notification(
 			this._nofiticationSource,
 			'Battery Fully Charged!', 
-			'Your battery is fully charged, consider pugging out the power source to enhance battery life.');
+			'Your battery is fully charged, consider plugging out the power source to enhance battery life.');
 
 		this._nofiticationSource.notify(notification);
 	},
